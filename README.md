@@ -1,7 +1,7 @@
 # VERIRAG: Verification-Enhanced Retrieval-Augmented Generation
 
 A Self-Disagreement-Aware Retrieval-Augmented Generation system that detects conflicting evidence in documents and provides multi-view answers with calibrated confidence scores. Unlike traditional RAG systems that collapse disagreement into falsely confident responses, VERIRAG explicitly surfaces conflicts, quantifies uncertainty, and shows *where* sources disagree.
- 
+
 ## Features
 
 - Automatic Conflict Detection - Identifies contradictions at the claim level
