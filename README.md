@@ -42,7 +42,7 @@ Query → Vector Retrieval (Top-K Chunks, via LlamaIndex) → Claim Extraction (
 ```bash
 pip install llama-index llama-index-llms-ollama llama-index-embeddings-huggingface sentence-transformers numpy pandas matplotlib seaborn networkx scikit-learn pypdf python-pptx python-docx nltk transformers torch
 ```
-4. Set up the Corpus folder in the project directory, add the relevant files to this folder. The system will be working with this folder. Name the folder 'documents'.
+4. Set up the Corpus folder in the project directory, add the relevant files to this folder; the system will be working with this folder. Name the folder 'documents'.
 5. Install Ollama & set up llama3:latest & phi3:mini.
 6. Open and run the cells of the `VERIRAG System.ipynb` Jupyter Notebook, ask the relevant queries.
 
