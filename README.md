@@ -30,7 +30,7 @@ Query → Vector Retrieval (Top-K Chunks, via LlamaIndex) → Claim Extraction (
 ### Use Cases
 
 - Research & Academia: Detect conflicting findings, verify claims, and surface research gaps
-- Education & Study: Highlight disputed concepts to focus deeper conceptual understanding
+- Education & Study: Highlight disputed concepts to focus on deeper conceptual understanding
 - Legal & Medical: Identify precedent splits, guideline disagreements, and decision risk
 - Journalism & Verification: Cross-check sources, flag contradictions, and expose framing bias
 
