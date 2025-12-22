@@ -45,3 +45,11 @@ pip install llama-index llama-index-llms-ollama llama-index-embeddings-huggingfa
 4. Set up the Corpus folder in the project directory. Add the relevant PDF, DOCX, PPTX, and TXT files to this folder. The system will be working with this folder. Name the folder 'documents'.
 5. Install Ollama & set up llama3:latest & phi3:mini.
 6. Open and run the cells of the `VERIRAG System.ipynb` Jupyter Notebook, ask the relevant queries.
+
+## Contributing
+
+Contributions are welcome!
+
+## License
+
+Distributed under the MIT License. 
